@@ -27,3 +27,4 @@ Al escribir dos las coordenadas 'x' 'y' respectivamente se ejecuta el procedimie
 
 20 35
 150 20
+ 
