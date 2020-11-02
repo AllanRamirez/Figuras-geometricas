@@ -6,7 +6,8 @@ El programa muestra una interfaz de usuario cuya unica interaccion es el cargar 
 \
 El programa espera recibir por consola los comandos para mostrar los resultados en la interfaz.\
 \
-*** Ejemplos de comandos para agregar figuras *** \ 
+*** Ejemplos de comandos para agregar figuras *** 
+\
 Los primeros dos parametros son las coordenadas x, y respectivamente y los demas dependen del tipo de figura\
 \
 circle 200.7 200.9 150.05 \
@@ -17,7 +18,7 @@ donut 40.5 70.8 80.5 160.8\
 triangle 50.5 20.5 60 70.5 80.2 45.3 \
 donut 100.5 60.8 80.5 100.8\
 \
-*** Ejemplo de comandos erroneos *** \
+*** Ejemplo de comandos erroneos *** 
 \
 circle 4 6 2 3\
 triangle 40 10 20\
@@ -26,5 +27,5 @@ triangle 40 10 20\
 Al escribir dos las coordenadas 'x' 'y' respectivamente se ejecuta el procedimiento. \
 \
 20 35\
-150 20\
+150 20
  
